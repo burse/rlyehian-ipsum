@@ -1,15 +1,12 @@
 {
-  "name": "melania-ipsum",
+  "name": "rlyehian-ipsum",
   "version": "0.0.1",
   "private": true,
   "devDependencies": {
     "react-scripts": "0.2.1"
   },
   "dependencies": {
-    "bootstrap": "^3.3.7",
     "react": "^15.2.1",
-    "react-bootstrap": "^0.30.3",
-    "react-bootstrap-select": "^0.14.0",
     "react-dom": "^15.2.1"
   },
   "scripts": {
